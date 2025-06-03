@@ -1,5 +1,5 @@
 # SandVXposed - Android App Sandbox with Xposed Support
-
+![favicon](https://sandboxwin.run.place/icon.png)
 **SandVXposed** is a fork project from [VirtualXposed](https://github.com/android-hacker/VirtualXposed) & [VirtualApp](https://github.com/asLody/VirtualApp), improved to support better on new Android versions and add custom interface. This project provides a sandbox environment for Android applications combined with lightweight hooking capabilities like Xposed without root.
 
 ---
