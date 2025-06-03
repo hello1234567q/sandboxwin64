@@ -97,3 +97,5 @@ https://github.com/hello1234567q/sandboxwin64/tree/chill
 ---
 
 Thank you for your interest in the project! If you need support, please create an issue on the GitHub repo.
+
+Email✉️:info@sandboxwin.run.place
